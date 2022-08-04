@@ -1,0 +1,15 @@
+Analysis & Synthesis Status : Successful - Thu May 13 13:11:41 2021
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Web Edition
+Revision Name : Projectt2
+Top-level Entity Name : Projectt2
+Family : Stratix II
+Logic utilization : N/A
+    Combinational ALUTs : 3
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 8
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 9-bit elements : 0
+Total PLLs : 0
+Total DLLs : 0
